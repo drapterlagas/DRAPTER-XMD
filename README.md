@@ -47,3 +47,14 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
+# 🗃️ PROJECT ARCHITECTS
+
+<p align="center">
+  <a href="https://github.com/drapterlagas">
+    <img src="https://github-readme-stats.vercel.app/api?username=drapterlagas&show_icons=true&theme=radical">
+  </a>
+</p>
+<div align="center">
+  <img src="https://github.com/drapterlagas/DRAPTER-XMD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+</div>
+
